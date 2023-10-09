@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fTQFmIEeck9fKU1wPCEyir/Project-Site-Cars---Renan-Oliveira?type=design&node-id=0%3A1&mode=design&t=xlFFhzK0V7v8tIV0-1)... <br>
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fTQFmIEeck9fKU1wPCEyir/Project-Site-Cars---Renan-Oliveira?type=design&node-id=0%3A1&mode=design&t=xlFFhzK0V7v8tIV0-1) ... <br>
 É necessário ter conta na plataforma e solicitar convite para acessar o layout na página.
 
 <br>
