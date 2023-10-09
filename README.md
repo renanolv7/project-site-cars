@@ -35,5 +35,5 @@ Ou também, segue abaixo uma imagem do projeto:
 
 
 <br>
+<h2> <a href="https://www.linkedin.com/in/renanolv/">Desenvolvido por - Renan Oliveira</a> </h2>
 
-<a href="https://www.linkedin.com/in/renanolv/">Desenvolvido por - Renan Oliveira</a>
